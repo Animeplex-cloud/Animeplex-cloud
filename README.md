@@ -9,6 +9,8 @@
 
 <br>
 
+<img src="manga-repos.svg" alt="Repository list: animeplex.github.io, AnimeHub.gihub.io, Strangers-club.github.io, wheather_report, php, pikashow.github.io, WhatsHackTool, Momix and First_year_CP_practial. Four more repositories are on GitHub." width="100%">
+
 | Repository | Main language |
 | --- | --- |
 | [animeplex.github.io](https://github.com/Animeplex-cloud/animeplex.github.io) | HTML |
@@ -16,6 +18,7 @@
 | [Strangers-club.github.io](https://github.com/Animeplex-cloud/Strangers-club.github.io) | HTML |
 | [wheather_report](https://github.com/Animeplex-cloud/wheather_report) | JavaScript |
 | [php](https://github.com/Animeplex-cloud/php) | PHP |
+| [pikashow.github.io](https://github.com/Animeplex-cloud/pikashow.github.io) | Profile config files |
 
 [Browse all 13 repositories](https://github.com/Animeplex-cloud?tab=repositories)
 

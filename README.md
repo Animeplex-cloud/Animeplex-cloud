@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Alex Rivera — systems engineer building storage engines and the tools around them" width="100%">
+<img src="banner.svg" alt="Alex Rivera — systems engineer building storage engines and the tools around them" width="100%">
 
 **Alex Rivera** · Systems engineer. I build storage engines and the tools around them.
 
@@ -14,7 +14,7 @@
 
 ## Telemetry
 
-<img src="assets/telemetry.svg" alt="Build telemetry: 1,639 contributions in 12 months, 242 active days, 13-day streak, 3,673 stars, 1,830 followers. Languages: Rust 41%, TypeScript 24%, Go 16%." width="100%">
+<img src="telemetry.svg" alt="Build telemetry: 1,639 contributions in 12 months, 242 active days, 13-day streak, 3,673 stars, 1,830 followers. Languages: Rust 41%, TypeScript 24%, Go 16%." width="100%">
 
 ## Stack
 

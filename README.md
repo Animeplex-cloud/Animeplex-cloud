@@ -1,27 +1,14 @@
-<img src="manga-hero.svg" alt="Mahesh Chopade, GitHub user Animeplex-cloud. Web developer building small anime and web projects on GitHub Pages. 13 public repositories." width="100%">
+<img src="bento.svg" alt="Bento profile for Mahesh Chopade (Animeplex-cloud): web developer with 13 public repositories and 4 GitHub Pages sites. php is 69.3% PHP and 30.7% HTML; wheather_report is 51.3% JavaScript, 28.3% HTML and 20.4% CSS. Featured: animeplex.github.io, wheather_report, php, AnimeHub.gihub.io." width="100%">
 
-> I build small web projects and ship them as static sites. This page is the cover; the chapters are the repositories.
+<img src="bento-stack.svg" alt="Stack: PHP, HTML, CSS, JavaScript and Shell. Hosted on GitHub Pages, source on GitHub." width="100%">
 
-<img src="manga-panels.svg" alt="Profile panels. What I build: anime-themed sites, a weather report app and PHP experiments on GitHub Pages. Languages: php is 69.3% PHP and 30.7% HTML; wheather_report is 51.3% JavaScript, 28.3% HTML and 20.4% CSS. Featured repositories: animeplex.github.io, AnimeHub.gihub.io, wheather_report and php." width="100%">
+<img src="bento-repos.svg" alt="Repository list: animeplex.github.io, AnimeHub.gihub.io, Strangers-club.github.io, wheather_report, php, pikashow.github.io, WhatsHackTool, Momix and First_year_CP_practial. Four more repositories on GitHub." width="100%">
 
-<details>
-<summary><strong>Open the repository list</strong></summary>
+**Open a repository**
 
-<br>
+- [animeplex.github.io](https://github.com/Animeplex-cloud/animeplex.github.io)
+- [AnimeHub.gihub.io](https://github.com/Animeplex-cloud/AnimeHub.gihub.io)
+- [wheather_report](https://github.com/Animeplex-cloud/wheather_report)
+- [php](https://github.com/Animeplex-cloud/php)
 
-<img src="manga-repos.svg" alt="Repository list: animeplex.github.io, AnimeHub.gihub.io, Strangers-club.github.io, wheather_report, php, pikashow.github.io, WhatsHackTool, Momix and First_year_CP_practial. Four more repositories are on GitHub." width="100%">
-
-| Repository | Main language |
-| --- | --- |
-| [animeplex.github.io](https://github.com/Animeplex-cloud/animeplex.github.io) | HTML |
-| [AnimeHub.gihub.io](https://github.com/Animeplex-cloud/AnimeHub.gihub.io) | CSS |
-| [Strangers-club.github.io](https://github.com/Animeplex-cloud/Strangers-club.github.io) | HTML |
-| [wheather_report](https://github.com/Animeplex-cloud/wheather_report) | JavaScript |
-| [php](https://github.com/Animeplex-cloud/php) | PHP |
-| [pikashow.github.io](https://github.com/Animeplex-cloud/pikashow.github.io) | Profile config files |
-
-[Browse all 13 repositories](https://github.com/Animeplex-cloud?tab=repositories)
-
-</details>
-
-**Find me:** [github.com/Animeplex-cloud](https://github.com/Animeplex-cloud)
+<a href="https://github.com/Animeplex-cloud?tab=repositories"><img src="bento-footer.svg" alt="Find the code on GitHub: github.com/Animeplex-cloud. Browse all 13 repositories." width="100%"></a>
